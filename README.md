@@ -1,4 +1,4 @@
-# 🛳️ Titanic Survival Prediction
+# 📨 Spam Email Classifier
 
 ## ⚙️ Tech Stack
 
